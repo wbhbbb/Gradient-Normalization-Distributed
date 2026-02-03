@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.gz
+
+/data/CIFAR-10/
+/data/cifar-10-batches-py/
+/data/MNIST/
+/old version code/grad_norm NN/data/MNIST
